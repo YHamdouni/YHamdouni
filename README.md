@@ -35,9 +35,7 @@ I'm a passionate **Full Stack Developer** with experience in building efficient 
 
 ## 🔗 Connect with me
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourhandle)
-- [Portfolio](https://yourwebsite.com)
+- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://ma.linkedin.com/in/yassine-hamdouni-7b02502ab))
 
 ---
 
