@@ -12,16 +12,16 @@ I'm a passionate **Full Stack Developer** with experience in building efficient 
   - Rust  
 
 - **Frontend:**  
-  - HTML5, CSS3, React, Vue.js
+  - HTML5, CSS3, React, Vue.js, Next.js(framework)
 
 - **Backend:**  
-  - Node.js, Express, Gin (Golang), REST APIs, GraphQL
+  - Node.js, Golang, REST APIs, GraphQL
 
 - **Databases:**  
-  - MySQL, PostgreSQL, MongoDB
+  - MySQL, PostgreSQL
 
 - **Tools & Platforms:**  
-  - Docker, Kubernetes, Git, CI/CD pipelines
+  - Docker, Git
 
 ---
 
