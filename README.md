@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a passionate **Full Stack Developer** with experience in building efficient and scalable web applications.
+I'm a passionate Full Stack Developer with experience in building efficient and scalable web applications.
 
 ---
 
@@ -9,19 +9,26 @@ I'm a passionate **Full Stack Developer** with experience in building efficient 
 - **Languages:**  
   - Golang  
   - JavaScript  
+  - Java  
   - Rust  
 
 - **Frontend:**  
-  - HTML5, CSS3, React, Vue.js, Next.js(framework)
+  - HTML5, CSS3, React, Vue.js, Next.js (framework)
 
 - **Backend:**  
-  - Node.js, Golang, REST APIs, GraphQL
+  - Node.js, Golang, Java (Spring Boot), REST APIs, GraphQL  
 
 - **Databases:**  
-  - MySQL, PostgreSQL
+  - MySQL, PostgreSQL  
 
 - **Tools & Platforms:**  
-  - Docker, Git
+  - Docker, Git  
+
+---
+
+## 🚀 Projects
+
+- **01blog** – A social blogging platform built with **Spring Boot**, **Angular**, and **PostgreSQL**, featuring user authentication, post interactions, and a clean modern UI.
 
 ---
 
