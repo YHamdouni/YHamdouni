@@ -1,7 +1,6 @@
 # Hi there 👋
 
-I'm a passionate Full Stack Developer with experience in building efficient and scalable web applications.
-
+Full Stack Developer with strong expertise in designing and developing scalable web applications, from front end to back end. Solid command of JavaScript (Next.js, Angular, Node.js), Golang, Rust, and Java with Spring Boot, as well as databases, APIs, WebSockets, and containerization with Docker. Passionate about clean code and problem-solving, I design innovative digital solutions that enhance user experience and boost business performance.
 ---
 
 ## 🛠️ Skills
